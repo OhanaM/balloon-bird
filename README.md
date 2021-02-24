@@ -3,3 +3,4 @@
 https://ohanam.github.io/balloon-bird/
 2. Player sprite credit: https://www.spriters-resource.com/fullview/4516/
 3. Other sprites are created by myself.
+4. Game is still under development. 
